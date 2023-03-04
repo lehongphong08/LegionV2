@@ -65,7 +65,7 @@ OR
 ```
 ## Usage on Termux
 ```sh
-!!!NOT WORKING ON TERMUX!!!
+same as linux
 
 ```
 ## Example
